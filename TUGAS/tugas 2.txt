@@ -1,0 +1,20 @@
+Soal Opsi 1 :
+    Buatlah skrip program yang menyelesaikan masalah berikut ini.
+    1. Jika ditentukan nilaiA = 20 dan nilaiB = 25.
+    Buatlah skrip program untuk mengevaluasi
+    dan menampilkan hasil evaluasi berikut ini:
+    a. h1 = penjumlahan nilaiA dan nilaiB, lalu dikalikan dengan penjumlahan nilaiB dan
+    nilaiA.
+    b. h2 = sisa bagi dari nilaiA dengan 4, kemudian dikalikan dengan nilaiB.
+    2. Perhatikan soal no.1, jika anda sudah mendapatkan nilai h1 dan h2, maka buat
+    skrip program yang mengevaluasi dan menampilkan hasil evaluasi berikut ini:
+    a. b1 = (h1 besar sama dengan h2)
+    b. b2 = (h2 besar sama dengan h1)
+    c. b3 = (h1 Mod 4) == (++h2 Mod 5)
+    d. b4 = (b1 XOR b3) AND (b2 OR b3)
+    e. b5 = b2 OR (b3 AND (b2 XOR b1))
+
+Soal Opsi 2 :
+    1. r = nomor urut absen
+    Sebuah Lingkaran memiliki jari-jari dengan nilai r(berdasarkan no urut absen) kemudian diketahui Pi dari lingkarang = 3.14 . Buatkan sebuah program untuk mengetahui luas lingkaran tersebut.
+
