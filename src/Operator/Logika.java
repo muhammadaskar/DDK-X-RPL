@@ -7,14 +7,14 @@ public class Logika {
         boolean c;
 
         // Konjungsi (AND)
-        // c = a && b;
-        // System.out.println(c);
+        c = a && b;
+        System.out.println("a AND b = " + c);
 
         // Disjungsi (OR)
-        // c = a || b;
-        // System.out.println(c);
+        c = a || b;
+        System.out.println("a OR b = " + c);
 
         // Negasi (bukan)
-        // System.out.println("Negasi, !false = " + !b);
+        System.out.println("Negasi, !false = " + !b);
     }
 }
